@@ -16,7 +16,7 @@ Tools & Technologies
 - Strategy return over time
 - Interactive crypto filters
 
-## 🧠 Trading Logic
+Trading Logic
 - BUY signal when SMA 21 crosses above SMA 50
 - Strategy return calculated based on signal
 
