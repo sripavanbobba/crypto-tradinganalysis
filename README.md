@@ -21,7 +21,7 @@ Dashboard Features
 - Strategy return calculated based on signal
 
 #Dashboard Screenshots
-
+![Image](https://github.com/user-attachments/assets/6c3a63a5-f5ed-4f63-a257-b92dd407cee5)
 
 
 
